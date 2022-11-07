@@ -44,5 +44,5 @@ int main()
     return 0;
 }
 
-// this project create bhy radhe patel
+// this project create by radhe patel
 // contact email-patelradhe112233@gmail.com
